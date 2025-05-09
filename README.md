@@ -1,6 +1,6 @@
 
 # README for estimating aboveground biomass in Honam Plain around Jeonju (one of South Korea’s largest rice-growing regions)
-## Uses RandomForestRegressor trained on GEDI Aboveground Biomass data and 6 Landsat bands
+## Uses RandomForestRegressor trained on GEDI Aboveground Biomass data and Landsat 8 reflectance bands
 
 ### Summary of code:
 
